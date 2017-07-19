@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 # style options: default (pink), blue, green, pink, red, sea, violet
 # use custom.css for your custom styling
-style = "default"
+style = "blue"
 description = "Portfolio of the amazing Ariella Cheskis-Gold"
 copyright = "&copy;2017 Ariella Cheskis-Gold"
 sidebarAbout = [
@@ -28,7 +28,7 @@ sidebarAbout = [
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "acheskis.gold@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -44,11 +44,7 @@ sidebarAbout = [
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
   email         = "acheskisgold@gmail.com"
-  twitter       = "full profile url in twitter"
   linkedin      = "https://www.linkedin.com/in/ariellacheskisgold/"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
+  instagram     = "https://ww.instagram.com/ariella.cg/"
   github        = "https://github.com/ariellacg"
